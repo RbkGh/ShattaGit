@@ -58,6 +58,12 @@ ShattaGit is birthed!! :fire: :fire: :fire: :fire:
 * Git Repos List View In Console - View all your repos right from your console!.
 * And More Loading shortly
 
+## Todo List
+- []Get a library that will help configure a command line tool in javascript.
+- []Set up the third-party library + our module configurations
+### PHASE ONE
+- []Getting the GitHub Auth API and configuring the authentication processes
+- []Configuration of layouts for the display in the command line after auth
 
 ## How To Use
 
