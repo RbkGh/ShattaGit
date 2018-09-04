@@ -59,7 +59,7 @@ ShattaGit is birthed!! :fire: :fire: :fire: :fire:
 * And More Loading shortly
 
 ## Todo List
-- [ ] Get a library that will help configure a command line tool in javascript.
+- [ :heavy_check_mark: ] Get a library that will help configure a command line tool in javascript.
 - [ ] Set up the third-party library + our module configurations
 ### Phase One
 - [ ] Getting the GitHub Auth API and configuring the authentication processes
@@ -95,9 +95,8 @@ You can [download](https://github.com/RbkGh/ShattaGit/releases/tag/v1.0.0) lates
 This software uses code from several open source packages.
 
 - [Node.js](https://nodejs.org/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [Vorpa](https://github.com/dthree/vorpal)
+
 
 ## Related
 
