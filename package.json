@@ -1,0 +1,26 @@
+{
+  "name": "shattagit.io",
+  "version": "1.0.0",
+  "description": "A sweet and effortless command line commander for your git server,How?",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RbkGh/ShattaGit.git"
+  },
+  "keywords": [
+    "cli",
+    "git"
+  ],
+  "author": "Rodney Boachie,Offei Lord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RbkGh/ShattaGit/issues"
+  },
+  "homepage": "https://github.com/RbkGh/ShattaGit#readme",
+  "dependencies": {
+    "vorpal": "1.12.0"
+  }
+}

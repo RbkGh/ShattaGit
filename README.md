@@ -59,8 +59,8 @@ ShattaGit is birthed!! :fire: :fire: :fire: :fire:
 * And More Loading shortly
 
 ## Todo List
-- [ :heavy_check_mark: ] Get a library that will help configure a command line tool in javascript.
-- [ ] Set up the third-party library + our module configurations
+- [:white_check_mark:] Get a library that will help configure a command line tool in javascript.
+- [:white_check_mark:] Set up the third-party library + our module configurations
 ### Phase One
 - [ ] Getting the GitHub Auth API and configuring the authentication processes
 - [ ] Configuration of layouts for the display in the command line after auth
