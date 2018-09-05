@@ -62,6 +62,7 @@ ShattaGit is birthed!! :fire: :fire: :fire: :fire:
 - [:white_check_mark:] Get a library that will help configure a command line tool in javascript.
 - [:white_check_mark:] Set up the third-party library + our module configurations
 ### Phase One
+- [ ] Setting up the vorpal for usability of the package
 - [ ] Getting the GitHub Auth API and configuring the authentication processes
 - [ ] Configuration of layouts for the display in the command line after auth
 
