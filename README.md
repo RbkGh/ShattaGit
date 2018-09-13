@@ -100,6 +100,9 @@ This software uses code from several open source packages.
 
 - [Node.js](https://nodejs.org/)
 - [Vorpa](https://github.com/dthree/vorpal)
+- [Chalk](https://github.com/chalk/chalk)
+- [clui](https://github.com/nathanpeck/clui)
+- [ascii-art](https://github.com/khrome/ascii-art)
 
 
 ## Related
