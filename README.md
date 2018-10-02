@@ -103,6 +103,7 @@ This software uses code from several open source packages.
 - [Chalk](https://github.com/chalk/chalk)
 - [clui](https://github.com/nathanpeck/clui)
 - [ascii-art](https://github.com/khrome/ascii-art)
+- [Inquirer](https://github.com/SBoudrias/Inquirer.js)
 
 
 ## Related

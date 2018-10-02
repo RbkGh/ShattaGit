@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/RbkGh/ShattaGit#readme",
   "dependencies": {
+    "inquirer": "6.2.0",
     "vorpal": "1.12.0"
   },
   "devDependencies": {
